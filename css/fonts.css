@@ -548,6 +548,10 @@ hr { border-top: 1px solid var(--border-color); }
     box-shadow: 0 10px 24px rgba(27, 43, 58, 0.10);
 }
 
+.tm-logo-img-small {
+    width: 160px;
+}
+
 /* --- RESPONSIVE FIXES --- */
 @media (max-width: 992px) {    
     .tm-col-left { width: 35%; }
