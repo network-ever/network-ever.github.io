@@ -524,6 +524,23 @@ hr { border-top: 1px solid var(--border-color); }
     }
 }
 
+.tm-site-header {
+  display: flex;
+  align-items: flex-start;
+}
+
+.tm-site-header a {
+  display: inline-block;
+}
+
+.tm-logo-img {
+  display: block;
+  width: 408px;
+  height: 102px;
+  max-width: 100%;
+  object-fit: contain;
+}
+
 .conference-banner-wrap {
     margin-top: 10px;
     max-width: 900px;

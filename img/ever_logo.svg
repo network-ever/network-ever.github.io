@@ -1,0 +1,8 @@
+<svg viewBox="0 0 400 100" xmlns="http://www.w3.org/2000/svg">
+    <!-- Main Branding -->
+    <text x="20" y="55" font-family="'Sora', sans-serif" font-weight="600" font-size="32" fill="#1B2B3A" letter-spacing="6">EVER</text>
+    <!-- Accent Path -->
+    <path d="M20 65 Q 150 65, 380 65" stroke="#D4A574" stroke-width="2.5" fill="none" />
+    <!-- Tagline -->
+    <text x="20" y="82" font-family="'DM Sans', sans-serif" font-weight="400" font-size="9" fill="#1B2B3A" opacity="0.8" letter-spacing="1.5">ECONOMISTS IN VOCATIONAL EDUCATION RESEARCH</text>
+</svg>
